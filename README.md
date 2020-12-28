@@ -1,1 +1,1 @@
-# HeroOfTheEarth-game
+# HeroOfTheEarth by WolfGames Team

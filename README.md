@@ -28,6 +28,24 @@ Submit issues at: https://github.com/WolfGames/HeroOfTheEarth-game/issues
 Join our discord: https://discord.gg/RztUGCK
 <br>
 <br>
+WolfGamesAPI support: Yes
+<br>
+Latest WolfGamesAPI supported version: 2.0 Beta
+<br>
+<br>
+Lowest system requirements:
+<br>
+OpenGL 3.0
+<br>
+32 Bit Windows 7
+<br>
+(?) MB of RAM
+<br>
+2 Gb of disk space
+<br>
+Internet connection
+<br>
+<br>
 <br>
 <br>
 

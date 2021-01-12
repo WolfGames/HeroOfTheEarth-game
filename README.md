@@ -3,7 +3,7 @@
 Hero Of The Earth it's a campaning game where aliens raided Earth.
 <br>
 <br>
---------------------------------------------------------------------------------------------------------
+<b>--------------------------------------------------------------------------------------------------------</b>
 <br>
 <b>Story</b>
 <br>
@@ -17,7 +17,7 @@ By this the survivors used this technology to build vechicles, weapons and bases
 <br>
 You are one of survivors and you have to protect bases from aliens and upgrade defences on them by finding technology atrefacts.
 <br>
---------------------------------------------------------------------------------------------------------
+<b>--------------------------------------------------------------------------------------------------------</b>
 <br>
 Game is still in develop so this all story is just planned. Most of features in it are unavailable.
 <br>

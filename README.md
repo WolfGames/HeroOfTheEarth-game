@@ -28,6 +28,12 @@ Submit issues at: https://github.com/WolfGames/HeroOfTheEarth-game/issues
 Join our discord: https://discord.gg/RztUGCK
 <br>
 <br>
+-------------------------------------------------------------------------------------------------------------
+Colaborators:
+@l299l
+-------------------------------------------------------------------------------------------------------------
+<br>
+<br>
 WolfGamesAPI support: Yes
 <br>
 Latest WolfGamesAPI supported version: 2.0 Beta

@@ -48,7 +48,7 @@ OpenGL 3.0
 <br>
 32 Bit Windows 7
 <br>
-(?) GB of RAM
+2 GB of RAM
 <br>
 2 Gb of disk space
 <br>

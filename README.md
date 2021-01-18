@@ -52,7 +52,7 @@ OpenGL 3.0
 <br>
 2 Gb of disk space
 <br>
-Internet connection
+Internet connection (recomended but not required to play)
 <br>
 <br>
 <br>

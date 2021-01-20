@@ -7,19 +7,21 @@ Hero Of The Earth it's a campaning game where aliens raided Earth.
 <br>
 <b>Story</b>
 <br>
-Most of humans died.
+Most of humans have died.
 <br>
-Aliens very changed climat and winter has come all over the planet.
+Aliens changed the climate and now winter overcame all the planet.
 <br>
-Some humans survived and stolen aliens technology.
+Some humans have survived and stole aliens technology.
 <br>
-By this the survivors used this technology to build vechicles, weapons and bases.
+Thanks to this the survivors used this technology to build vechicles, weapons and bases.
 <br>
-You are one of survivors and you have to protect bases from aliens and upgrade defences on them by finding technology atrefacts.
+You are one of survivors and you have to protect bases from aliens and upgrade defences in them by finding technological atrefacts.
+<br>
+More over you have to destroy alien bases.
 <br>
 <b>--------------------------------------------------------------------------------------------------------</b>
 <br>
-Game is still in develop so this all story is just planned. Most of features in it are unavailable.
+Game is still being developped so this all story is just about to plan. Most of features in it is unavailable.
 <br>
 You can download it at: https://github.com/WolfGames/HeroOfTheEarth-game/releases
 <br>

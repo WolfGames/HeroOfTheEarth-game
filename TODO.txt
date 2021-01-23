@@ -5,3 +5,4 @@ Features to do:
 -add modding API
 -stop writing this stupid todo file and resume programming 
 -fix icon
+-change open gl from 3.0 to 2.0

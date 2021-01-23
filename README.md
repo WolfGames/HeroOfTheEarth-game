@@ -32,9 +32,17 @@ Join our discord: https://discord.gg/RztUGCK
 <br>
 -------------------------------------------------------------------------------------------------------------
 <br>
-Colaborators:
+GitHub Colaborators:
 <br>
 -l299l
+<br>
+Credits:
+<br>
+-CripoGames854 - programming, graphics designer
+<br>
+-l229l - programming graphics designer
+<br>
+-CyberSauros - graphics designer
 <br>
 -------------------------------------------------------------------------------------------------------------
 <br>

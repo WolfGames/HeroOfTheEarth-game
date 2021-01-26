@@ -54,7 +54,7 @@ Latest WolfGamesAPI supported version: 2.0 Beta
 <br>
 Lowest system requirements:
 <br>
-OpenGL 3.0
+OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
 32 Bit Windows 7
 <br>

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Bug report
+about: Something is not ok with game
 title: "[BUG]"
 labels: bug
 assignees: ''

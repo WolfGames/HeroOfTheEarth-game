@@ -36,9 +36,10 @@ GitHub Colaborators:
 <br>
 -l299l
 <br>
+<br>
 Credits:
 <br>
--CripoGames854 - programming, graphics designer
+-CriDev - programming, graphics designer
 <br>
 -l229l - programming graphics designer
 <br>

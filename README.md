@@ -68,5 +68,3 @@ Internet connection (recomended but not required to play)
 <br>
 <br>
 <br>
-<br>
-btw i wanted to upload source code of game here but its too big to upload nah :/

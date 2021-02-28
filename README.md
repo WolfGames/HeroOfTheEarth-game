@@ -57,14 +57,15 @@ Lowest system requirements:
 <br>
 OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
-32 Bit Windows 7
-<br>
 2 GB of RAM
 <br>
 2 Gb of disk space
 <br>
 Internet connection (recomended but not required to play)
 <br>
+<b>Supported systems:</b>
 <br>
+-Windows 7+ .exe (32bit, 64bit)
+-Linux .x86 (32bit, 64bit)
 <br>
 <br>

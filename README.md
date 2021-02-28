@@ -66,6 +66,7 @@ Internet connection (recomended but not required to play)
 <b>Supported systems:</b>
 <br>
 -Windows 7+ .exe (32bit, 64bit)
+<br>
 -Linux .x86 (32bit, 64bit)
 <br>
 <br>

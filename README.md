@@ -1,6 +1,6 @@
 # HeroOfTheEarth by WolfGames Team
 <br>
-Hero Of The Earth it's a campaning game where aliens raided Earth.
+Hero Of The Earth is a campaning game where aliens raided Earth and changed climate.
 <br>
 <br>
 <b>--------------------------------------------------------------------------------------------------------</b>

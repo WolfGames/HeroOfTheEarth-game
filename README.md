@@ -35,6 +35,8 @@ Join our discord: https://discord.gg/RztUGCK
 <b>Screenshots</b>
 <br>
 <img src="https://raw.githubusercontent.com/WolfGames/HeroOfTheEarth-game/main/screenshots/menu1.png">
+<br>
+<img src="https://raw.githubusercontent.com/WolfGames/HeroOfTheEarth-game/main/screenshots/game1.png">
 
 <br>
 GitHub Colaborators:

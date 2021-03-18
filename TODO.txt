@@ -1,8 +1,7 @@
 Features to do:
--add menu [DONE]
--make enemy AI less dumb lol
 -add all features that are in story (You can read story in README.md file in STORY section)
 -add modding API
 -stop writing this stupid todo file and resume programming 
--fix icon
--change open gl from 3.0 to 2.0
+-add more sounds
+-add multiplayer
+

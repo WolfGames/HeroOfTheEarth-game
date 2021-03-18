@@ -15,7 +15,7 @@ Some humans have survived and stole aliens technology.
 <br>
 Thanks to this the survivors used this technology to build vechicles, weapons and bases.
 <br>
-You are one of survivors and you have to protect bases from aliens and upgrade defences in them by finding technological atrefacts.
+You are drone controlled by the survivors from headquaters and you have to protect bases, bunkers and villages from aliens and upgrade defences in them by finding technological atrefacts.
 <br>
 More over you have to destroy alien bases.
 <br>

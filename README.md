@@ -46,11 +46,11 @@ GitHub Colaborators:
 <br>
 Credits:
 <br>
--CriDev - programming, graphics designer
+-CriDev - programming, graphics designer, sound designer
 <br>
--l229l - programming graphics designer
+-l229l - programming graphics designer, server programming
 <br>
--CyberSauros - graphics designer
+-Matthew - graphics designer
 <br>
 -------------------------------------------------------------------------------------------------------------
 <br>
@@ -64,9 +64,9 @@ Lowest system requirements:
 <br>
 OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
-2 GB of RAM
+300MB RAM memory
 <br>
-2 Gb of disk space
+1 Gb disk space
 <br>
 Internet connection (recomended but not required to play)
 <br>

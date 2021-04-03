@@ -66,7 +66,7 @@ OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
 300MB RAM memory
 <br>
-1 Gb disk space
+2 Gb disk space
 <br>
 Internet connection (recomended but not required to play)
 <br>
@@ -75,5 +75,13 @@ Internet connection (recomended but not required to play)
 -Windows 7+ [.exe] (32bit, 64bit)
 <br>
 -Linux [.x86] (32bit, 64bit)
+<br>
+Tested platforms:
+<br>
+Linux Fedora - DiscordRPC not working
+<br>
+Windows 10 - fully functional
+<br>
+Windows 7 - ?
 <br>
 <br>

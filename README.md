@@ -68,7 +68,7 @@ OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
 2 Gb disk space
 <br>
-Internet connection (recomended but not required to play)
+Internet connection (It's required to connect with WolfGamesAPI but for only game it's not required to play)
 <br>
 <b>Supported systems:</b>
 <br>

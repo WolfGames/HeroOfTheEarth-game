@@ -54,6 +54,10 @@ Credits:
 <br>
 -------------------------------------------------------------------------------------------------------------
 <br>
+Mods webpage: Comming soon
+<br>
+<br>
+Source code: closed-source
 <br>
 WolfGamesAPI support: Yes
 <br>

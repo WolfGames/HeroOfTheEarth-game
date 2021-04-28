@@ -57,7 +57,7 @@ Credits:
 Mods webpage: Comming soon
 <br>
 <br>
-Source code: closed-source
+If you want to get source code use Godot REtools. (https://github.com/bruvzg/gdsdecomp) but please decompile our game only to make mods.
 <br>
 WolfGamesAPI support: Yes
 <br>

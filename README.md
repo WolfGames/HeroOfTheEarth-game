@@ -82,11 +82,11 @@ Internet connection (It's required to connect with WolfGamesAPI but for only gam
 <br>
 Tested platforms:
 <br>
-Any Linux - WolfGames Modules not included and not supported, DiscordRPC not working
+Any Linux - WolfGames Modules not included and not supported, DiscordRPC not working. Anything other supported and fully functional
 <br>
-Linux Fedora - ^
+Linux Fedora - Same as "Any Linux"
 <br>
-Windows 10 - fully functional (recommended)
+Windows 10 - fully functional (best preformance)
 <br>
 Windows 7 - fully functional
 <br>

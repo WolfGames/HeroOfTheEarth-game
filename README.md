@@ -68,6 +68,8 @@ Lowest system requirements:
 <br>
 OpenGL 2.0 (versions older than 1.1-indev needs OpenGL 3.0)
 <br>
+.NET Framework 4.7.2 (only for WolfGames Modules, not required on Linux)
+<br>
 300MB RAM memory
 <br>
 2 Gb disk space

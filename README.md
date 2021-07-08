@@ -46,11 +46,11 @@ GitHub Colaborators:
 <br>
 Credits:
 <br>
--CriDev - programming, graphics designer, sound designer
+-Wolfyxon - programming, graphics designer, sound designer
 <br>
 -l229l - programming graphics designer, server programming
 <br>
--Matthew - graphics designer
+-MatT - graphics designer
 <br>
 -------------------------------------------------------------------------------------------------------------
 <br>
